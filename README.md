@@ -1,17 +1,21 @@
-DROP CANDY: Pixel art made with PICO-8
+Mosaic of Icons: Pixel art made with PICO-8
 ====
 
-`pico8-dropcandy` is a pixel art made with PICO-8. "DROP CANDY" is a puzzle game for iOS developed by me. Happy Halloween!
+`pico8-mosaicicons` is a pixel art made with PICO-8. 
 
 - [PICO\-8: FANTASY CONSOLE](https://www.lexaloffle.com/pico-8.php)
 
 ## Demo
 
-[PICO\-8 Cartridge](https://24appnet.github.io/pico8-dropcandy/)
+[PICO\-8 Cartridge](https://24appnet.github.io/pico8-mosaicicons/)
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/24appnet/pico8-dropcandy/master/screenshot.png)
+Icon sprite is made of in 3 colors. I change the color palette with `pal()` and draw it.
+
+![](https://raw.githubusercontent.com/24appnet/pico8-mosaicicons/master/screenshot1.png)
+
+![](https://raw.githubusercontent.com/24appnet/pico8-mosaicicons/master/screenshot2.png)
 
 ## License
 
